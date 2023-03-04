@@ -18,11 +18,11 @@ export default function Home() {
           disableCopy
           children={`### My ChatGPT - 构建您自己的聊天机器人站点
 
-My ChatGPT是一款基于OpenAI的ChatGPT API开发的个人聊天机器人站点。它能够为您提供一个私人的的聊天机器人站点，使您的客户和访客能够与您的机器人进行互动。只需提供API Key，您就能轻松地搭建站点。
+My ChatGPT是一款基于OpenAI的ChatGPT API开发的个人聊天机器人站点。它能够为您提供一个私人的的聊天机器人站点，使您的客户和访客能够与您的机器人进行互动。
 
-My ChatGPT的作者[Gabriel Wu](https://github.com/lucifer1004)已将源代码以MIT协议开源在[GitHub](https://github.com/lucifer1004/my-chatgpt)上，这意味着您可以自由地修改和分发代码，以满足您的需求。
+My ChatGPT的作者[Gabriel Wu](https://github.com/lucifer1004)已将源代码以MIT协议开源在[GitHub](https://github.com/lucifer1004/my-chatgpt)上
 
-如果您正在寻找一个简单易用的个人聊天机器人站点，那么My ChatGPT绝对是您的不二之选。立即获取API Key，开始构建您的聊天机器人站点吧！`}
+`}
         />
         <Button
           onClick={() => {
